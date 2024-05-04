@@ -6,7 +6,7 @@ This project conducts a detailed descriptive and exploratory analysis of the Air
 
 **Data Source**
 
-The data for this project is sourced from the New York City Airbnb Open Data on Kaggle. It comprises approximately 500,000 records across 10 attributes, encapsulating various aspects of Airbnb listings in NYC.
+The data for this project is sourced from the New York City Airbnb Open Data on https://insideairbnb.com/. It comprises approximately 500,000 records across 10 attributes, encapsulating various aspects of Airbnb listings in NYC.
 
 **Installation**
 
